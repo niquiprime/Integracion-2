@@ -3,4 +3,4 @@ primera reunion:
 16:36 Reunion discord  
 	-naiko-seba-nina-nico u //falta renato  
 	Intalacion GitKraken 7.7.2, elgg 3.3.21, XAMPP 8.0.9(PHP 8.0.9), mongoDB 1.28.1
-	Creacion repositorio en github, ademas de la implementacion en GitKraken, junto xon la incorporacion de la mayoria de integrantes
+	Creacion repositorio en github, ademas de la implementacion en GitKraken, junto con la incorporacion de la mayoria de integrantes
